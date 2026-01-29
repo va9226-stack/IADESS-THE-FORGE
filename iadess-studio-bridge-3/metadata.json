@@ -1,0 +1,8 @@
+{
+  "name": "Iadess Studio Bridge",
+  "description": "A world-class Firebase management suite powered by the IADESS Sentinel and the VRAW Codex, featuring real-time wireless connect protocols.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
